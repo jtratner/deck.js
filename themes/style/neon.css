@@ -121,3 +121,16 @@
   -moz-box-shadow: 0 0 20px #f0a, 0 0 5px #fff;
   box-shadow: 0 0 20px #f0a, 0 0 5px #fff;
 }
+
+.footer {
+  position: absolute;
+  bottom: 3px;
+}
+
+.footer-right {
+  right: 5px;
+}
+
+.footer-left {
+  left: 5px;
+}
